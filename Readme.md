@@ -8,4 +8,4 @@ It is a type of TO-DO application. This application will help you to make Notes 
 3. Notes can be edited by expanding them.
 4. All the notes will be stored in the local storage therefore no loss of data.
 
-#### Page: https://shreya-0999.github.io/Color-Notes/
+#### Page: https://mohanpatil76.github.io/Color-Notes/
